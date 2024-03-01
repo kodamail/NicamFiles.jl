@@ -1,0 +1,13 @@
+name = "NicamFiles"
+uuid = "5b2fe943-4f04-4984-892c-b83d4ce2e4af"
+authors = ["Chihiro Kodama"]
+version = "0.1.0"
+
+[compat]
+julia = "1.4.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
